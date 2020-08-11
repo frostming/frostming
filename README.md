@@ -1,10 +1,8 @@
 # 🦄 Frost Ming 🐍
 
 <p align="center">
-
-  [![Frost's github stats](https://github-readme-stats.vercel.app/api?username=frostming&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frostming&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=frostming&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostming&theme=dracula&show_icons=true" />
 </p>
 
 <!--START_SECTION:waka-->
