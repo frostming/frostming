@@ -1,8 +1,4 @@
-<center>
-
-# 🦄 Frost Ming 🐍
-
-</center>
+<h1 align="center">🦄 Frost Ming 🐍</h1>
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=frostming&show_icons=true&theme=dracula&include_all_commits=true" />
