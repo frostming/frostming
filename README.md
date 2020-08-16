@@ -8,19 +8,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-10.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.5%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 962 Contributions in 2020
+> 🏆 962 Contributions in the year 2020
  > 
-> 📦 Used 40.5 kB in GitHub's Storage 
+> 📦 40.5 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 65 Public repositories
  > 
-> 🔑 5 Owned Private Repositories 
+> 🔑 5 Private repositories 
 
 **I'm an Early 🐤** 
 
@@ -31,7 +31,7 @@
 🌙 Night      7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
@@ -45,17 +45,17 @@ Sunday       90 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-💬 Languages: 
+💬 Programming Languages: 
 Python                   14 hrs 47 mins      ██████████████████░░░░░░░   75.47% 
 Vue.js                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65% 
 Java                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
 TOML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
 JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Windows                  19 hrs 35 mins      █████████████████████████   100.0%
 
 ```
