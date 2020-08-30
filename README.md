@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -49,7 +49,7 @@ Sunday       89 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   16 hrs 29 mins      ███████████████████░░░░░░   75.91% 
+Python                   16 hrs 30 mins      ███████████████████░░░░░░   75.91% 
 Java                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.34% 
 Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
 reStructuredText         46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
