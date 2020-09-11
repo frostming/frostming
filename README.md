@@ -14,7 +14,7 @@
 
 > 🏆 1,045 Contributions in the Year 2020
  > 
-> 📦 42.3 kB Used in Github's Storage 
+> 📦 42.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
