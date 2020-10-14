@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -68,7 +68,7 @@ Python                   28 repos            ███████████�
 CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
 Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.3% 
 HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-JavaScript               1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
 
 ```
 
