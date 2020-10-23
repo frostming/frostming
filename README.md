@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -64,11 +64,11 @@ Mac                      7 hrs 32 mins       ██████░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   30 repos            ████████████████░░░░░░░░░   65.22% 
+Python                   29 repos            ███████████████░░░░░░░░░░   63.04% 
 CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
 Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
 HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
-JavaScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
