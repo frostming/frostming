@@ -16,6 +16,30 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.6%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    205 commits    ███████░░░░░░░░░░░░░░░░░░   29.84% 
+🌆 Daytime    236 commits    ████████░░░░░░░░░░░░░░░░░   34.35% 
+🌃 Evening    238 commits    ████████░░░░░░░░░░░░░░░░░   34.64% 
+🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💻 Operating System: 
+Windows                  21 hrs 31 mins      ███████████████████░░░░░░   77.47% 
+Mac                      6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   22.53%
+
+```
+
 
 <!--END_SECTION:waka-->
 
