@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.7%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -35,8 +35,8 @@
 
 ```text
 💻 Operating System: 
-Windows                  21 hrs 31 mins      ███████████████████░░░░░░   77.47% 
-Mac                      6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   22.53%
+Windows                  21 hrs 41 mins      ███████████████████░░░░░░   77.59% 
+Mac                      6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   22.41%
 
 ```
 
