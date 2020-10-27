@@ -6,7 +6,7 @@ on:
     - cron: "0 */2 * * *"
 
 jobs:
-  update-readme:
+  update-activity:
     name: Update GitHub Activity
     runs-on: ubuntu-latest
     steps:
