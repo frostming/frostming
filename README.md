@@ -46,5 +46,4 @@ Mac                      6 hrs 15 mins       █████░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
