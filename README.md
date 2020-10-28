@@ -46,9 +46,9 @@ Mac                      6 hrs 15 mins       █████░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/frostming/flask-webconsole-example/pull/1) in [frostming/flask-webconsole-example](https://github.com/frostming/flask-webconsole-example)
-2. 🗣 Commented on [#4500](https://github.com/pypa/pipenv/issues/4500) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 🗣 Commented on [#4500](https://github.com/pypa/pipenv/issues/4500) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. 🗣 Commented on [#4480](https://github.com/pypa/pipenv/issues/4480) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. ❗️ Closed issue [#4476](https://github.com/pypa/pipenv/issues/4476) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🗣 Commented on [#4502](https://github.com/pypa/pipenv/issues/4502) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. 🗣 Commented on [#4480](https://github.com/pypa/pipenv/issues/4480) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🎉 Merged PR [#1](https://github.com/frostming/flask-webconsole-example/pull/1) in [frostming/flask-webconsole-example](https://github.com/frostming/flask-webconsole-example)
+4. 🗣 Commented on [#4500](https://github.com/pypa/pipenv/issues/4500) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 🗣 Commented on [#4500](https://github.com/pypa/pipenv/issues/4500) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
