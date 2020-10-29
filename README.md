@@ -46,9 +46,9 @@ Mac                      6 hrs 15 mins       █████░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4480](https://github.com/pypa/pipenv/issues/4480) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#4504](https://github.com/pypa/pipenv/issues/4504) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 💪 Opened PR [#4505](https://github.com/pypa/pipenv/pull/4505) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. ❗️ Closed issue [#4503](https://github.com/pypa/pipenv/issues/4503) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. 🗣 Commented on [#155](https://github.com/manrajgrover/halo/issues/155) in [manrajgrover/halo](https://github.com/manrajgrover/halo)
+1. 🎉 Merged PR [#273](https://github.com/sarugaku/requirementslib/pull/273) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+2. ❗️ Closed issue [#4469](https://github.com/pypa/pipenv/issues/4469) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#4469](https://github.com/pypa/pipenv/issues/4469) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 💪 Opened PR [#273](https://github.com/sarugaku/requirementslib/pull/273) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+5. 🗣 Commented on [#4480](https://github.com/pypa/pipenv/issues/4480) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
