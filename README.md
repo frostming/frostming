@@ -18,14 +18,14 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.5%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    219 commits    ███████░░░░░░░░░░░░░░░░░░   30.76% 
+🌞 Morning    218 commits    ███████░░░░░░░░░░░░░░░░░░   30.62% 
 🌆 Daytime    252 commits    ████████░░░░░░░░░░░░░░░░░   35.39% 
-🌃 Evening    233 commits    ████████░░░░░░░░░░░░░░░░░   32.72% 
+🌃 Evening    234 commits    ████████░░░░░░░░░░░░░░░░░   32.87% 
 🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 ```
