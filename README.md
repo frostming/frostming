@@ -46,9 +46,9 @@ Mac                      6 hrs 15 mins       █████░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4510](https://github.com/pypa/pipenv/issues/4510) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#155](https://github.com/manrajgrover/halo/issues/155) in [manrajgrover/halo](https://github.com/manrajgrover/halo)
-3. 🎉 Merged PR [#272](https://github.com/sarugaku/requirementslib/pull/272) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
-4. 🎉 Merged PR [#273](https://github.com/sarugaku/requirementslib/pull/273) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
-5. ❗️ Closed issue [#4469](https://github.com/pypa/pipenv/issues/4469) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. ❗️ Closed issue [#4225](https://github.com/pypa/pipenv/issues/4225) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. 🎉 Merged PR [#4510](https://github.com/pypa/pipenv/pull/4510) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#4510](https://github.com/pypa/pipenv/issues/4510) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 🗣 Commented on [#155](https://github.com/manrajgrover/halo/issues/155) in [manrajgrover/halo](https://github.com/manrajgrover/halo)
+5. 🎉 Merged PR [#272](https://github.com/sarugaku/requirementslib/pull/272) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
 <!--END_SECTION:activity-->
