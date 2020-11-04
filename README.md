@@ -45,9 +45,9 @@ Windows                  30 hrs 16 mins      ███████████�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#164](https://github.com/frostming/pdm/issues/164) in [frostming/pdm](https://github.com/frostming/pdm)
-2. 🗣 Commented on [#164](https://github.com/frostming/pdm/issues/164) in [frostming/pdm](https://github.com/frostming/pdm)
-3. ❗️ Opened issue [#164](https://github.com/frostming/pdm/issues/164) in [frostming/pdm](https://github.com/frostming/pdm)
-4. 🎉 Merged PR [#163](https://github.com/frostming/pdm/pull/163) in [frostming/pdm](https://github.com/frostming/pdm)
-5. ❗️ Closed issue [#162](https://github.com/frostming/pdm/issues/162) in [frostming/pdm](https://github.com/frostming/pdm)
+1. ❗️ Opened issue [#165](https://github.com/frostming/pdm/issues/165) in [frostming/pdm](https://github.com/frostming/pdm)
+2. 🎉 Merged PR [#269](https://github.com/sarugaku/requirementslib/pull/269) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+3. 💪 Opened PR [#275](https://github.com/sarugaku/requirementslib/pull/275) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+4. ❗️ Opened issue [#274](https://github.com/sarugaku/requirementslib/issues/274) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+5. ❗️ Reopened issue [#4089](https://github.com/pypa/pipenv/issues/4089) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
