@@ -46,9 +46,9 @@ Mac                      32 mins             ░░░░░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4516](https://github.com/pypa/pipenv/issues/4516) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. ❗️ Closed issue [#4520](https://github.com/pypa/pipenv/issues/4520) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 🎉 Merged PR [#4521](https://github.com/pypa/pipenv/pull/4521) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. ❗️ Closed issue [#4387](https://github.com/pypa/pipenv/issues/4387) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. 🗣 Commented on [#4373](https://github.com/pypa/pipenv/issues/4373) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🗣 Commented on [#4464](https://github.com/pypa/pipenv/issues/4464) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. 🗣 Commented on [#4464](https://github.com/pypa/pipenv/issues/4464) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#4518](https://github.com/pypa/pipenv/issues/4518) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. ❌ Closed PR [#3155](https://github.com/pypa/pipenv/pull/3155) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 🗣 Commented on [#3155](https://github.com/pypa/pipenv/issues/3155) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
