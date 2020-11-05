@@ -46,9 +46,9 @@ Mac                      32 mins             ░░░░░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/frostming/python-cfonts/pull/38) in [frostming/python-cfonts](https://github.com/frostming/python-cfonts)
-2. 🎉 Merged PR [#37](https://github.com/frostming/python-cfonts/pull/37) in [frostming/python-cfonts](https://github.com/frostming/python-cfonts)
-3. ❗️ Closed issue [#36](https://github.com/frostming/python-cfonts/issues/36) in [frostming/python-cfonts](https://github.com/frostming/python-cfonts)
-4. ❗️ Closed issue [#4370](https://github.com/pypa/pipenv/issues/4370) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. 🗣 Commented on [#4370](https://github.com/pypa/pipenv/issues/4370) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🗣 Commented on [#4520](https://github.com/pypa/pipenv/issues/4520) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. 💪 Opened PR [#4519](https://github.com/pypa/pipenv/pull/4519) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#4518](https://github.com/pypa/pipenv/issues/4518) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 🗣 Commented on [#4516](https://github.com/pypa/pipenv/issues/4516) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 🗣 Commented on [#3772](https://github.com/pypa/pipenv/issues/3772) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
