@@ -46,9 +46,9 @@ Mac                      4 hrs 16 mins       ████░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4453](https://github.com/pypa/pipenv/issues/4453) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#4527](https://github.com/pypa/pipenv/issues/4527) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 💪 Opened PR [#4528](https://github.com/pypa/pipenv/pull/4528) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. 💪 Opened PR [#168](https://github.com/frostming/pdm/pull/168) in [frostming/pdm](https://github.com/frostming/pdm)
-5. 🎉 Merged PR [#4526](https://github.com/pypa/pipenv/pull/4526) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🎉 Merged PR [#168](https://github.com/frostming/pdm/pull/168) in [frostming/pdm](https://github.com/frostming/pdm)
+2. 🎉 Merged PR [#4528](https://github.com/pypa/pipenv/pull/4528) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. ❗️ Closed issue [#4527](https://github.com/pypa/pipenv/issues/4527) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 🗣 Commented on [#4453](https://github.com/pypa/pipenv/issues/4453) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 🗣 Commented on [#4527](https://github.com/pypa/pipenv/issues/4527) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
