@@ -46,9 +46,9 @@ Mac                      4 hrs 16 mins       ████░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4529](https://github.com/pypa/pipenv/issues/4529) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#4529](https://github.com/pypa/pipenv/issues/4529) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. ❗️ Opened issue [#276](https://github.com/sarugaku/requirementslib/issues/276) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+2. ❗️ Closed issue [#4529](https://github.com/pypa/pipenv/issues/4529) in [pypa/pipenv](https://github.com/pypa/pipenv)
 3. 🗣 Commented on [#4529](https://github.com/pypa/pipenv/issues/4529) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. 🎉 Merged PR [#168](https://github.com/frostming/pdm/pull/168) in [frostming/pdm](https://github.com/frostming/pdm)
-5. 🎉 Merged PR [#4528](https://github.com/pypa/pipenv/pull/4528) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 🗣 Commented on [#4529](https://github.com/pypa/pipenv/issues/4529) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 🎉 Merged PR [#168](https://github.com/frostming/pdm/pull/168) in [frostming/pdm](https://github.com/frostming/pdm)
 <!--END_SECTION:activity-->
