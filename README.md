@@ -46,9 +46,9 @@ Mac                      3 hrs 44 mins       ████░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4532](https://github.com/pypa/pipenv/issues/4532) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#4532](https://github.com/pypa/pipenv/issues/4532) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. ❗️ Closed issue [#4078](https://github.com/pypa/pipenv/issues/4078) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. 🗣 Commented on [#4078](https://github.com/pypa/pipenv/issues/4078) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. ❗️ Closed issue [#4224](https://github.com/pypa/pipenv/issues/4224) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🗣 Commented on [#243](https://github.com/sarugaku/requirementslib/issues/243) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+2. 🗣 Commented on [#755](https://github.com/pyinvoke/invoke/issues/755) in [pyinvoke/invoke](https://github.com/pyinvoke/invoke)
+3. ❗️ Closed issue [#4532](https://github.com/pypa/pipenv/issues/4532) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 🗣 Commented on [#4532](https://github.com/pypa/pipenv/issues/4532) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. ❗️ Closed issue [#4078](https://github.com/pypa/pipenv/issues/4078) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
