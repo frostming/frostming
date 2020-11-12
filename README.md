@@ -46,9 +46,9 @@ Mac                      3 hrs 44 mins       ████░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#278](https://github.com/sarugaku/requirementslib/pull/278) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
-2. ❗️ Closed issue [#271](https://github.com/sarugaku/requirementslib/issues/271) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
-3. 🗣 Commented on [#4530](https://github.com/pypa/pipenv/issues/4530) in [pypa/pipenv](https://github.com/pypa/pipenv)
-4. 🗣 Commented on [#4530](https://github.com/pypa/pipenv/issues/4530) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🎉 Merged PR [#260](https://github.com/sarugaku/requirementslib/pull/260) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+2. ❗️ Closed issue [#258](https://github.com/sarugaku/requirementslib/issues/258) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+3. 🎉 Merged PR [#278](https://github.com/sarugaku/requirementslib/pull/278) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
+4. ❗️ Closed issue [#271](https://github.com/sarugaku/requirementslib/issues/271) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
 5. 🗣 Commented on [#4530](https://github.com/pypa/pipenv/issues/4530) in [pypa/pipenv](https://github.com/pypa/pipenv)
 <!--END_SECTION:activity-->
