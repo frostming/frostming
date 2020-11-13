@@ -16,7 +16,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.7%20million%20lines%20of%20code-blue)
 
@@ -35,8 +35,8 @@
 
 ```text
 💻 Operating System: 
-Windows                  23 hrs 27 mins      ████████████████████████░   95.8% 
-Mac                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+Windows                  24 hrs 49 mins      ████████████████████████░   97.34% 
+Mac                      40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
 ```
 
