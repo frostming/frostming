@@ -46,9 +46,9 @@ Mac                      1 hr 1 min          █░░░░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4501](https://github.com/pypa/pipenv/issues/4501) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 💪 Opened PR [#4533](https://github.com/pypa/pipenv/pull/4533) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 🗣 Commented on [#243](https://github.com/sarugaku/requirementslib/issues/243) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
-4. 🗣 Commented on [#755](https://github.com/pyinvoke/invoke/issues/755) in [pyinvoke/invoke](https://github.com/pyinvoke/invoke)
-5. ❗️ Closed issue [#4532](https://github.com/pypa/pipenv/issues/4532) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🎉 Merged PR [#4533](https://github.com/pypa/pipenv/pull/4533) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. ❗️ Closed issue [#3516](https://github.com/pypa/pipenv/issues/3516) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#4501](https://github.com/pypa/pipenv/issues/4501) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 💪 Opened PR [#4533](https://github.com/pypa/pipenv/pull/4533) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 🗣 Commented on [#243](https://github.com/sarugaku/requirementslib/issues/243) in [sarugaku/requirementslib](https://github.com/sarugaku/requirementslib)
 <!--END_SECTION:activity-->
