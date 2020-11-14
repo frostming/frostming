@@ -46,9 +46,9 @@ Mac                      40 mins             ░░░░░░░░░░░�
 **My GitHub Activities**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4534](https://github.com/pypa/pipenv/issues/4534) in [pypa/pipenv](https://github.com/pypa/pipenv)
-2. 🗣 Commented on [#4534](https://github.com/pypa/pipenv/issues/4534) in [pypa/pipenv](https://github.com/pypa/pipenv)
-3. 🗣 Commented on [#420](https://github.com/willmcgugan/rich/issues/420) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
-4. 🎉 Merged PR [#4533](https://github.com/pypa/pipenv/pull/4533) in [pypa/pipenv](https://github.com/pypa/pipenv)
-5. ❗️ Closed issue [#3516](https://github.com/pypa/pipenv/issues/3516) in [pypa/pipenv](https://github.com/pypa/pipenv)
+1. 🎉 Merged PR [#4535](https://github.com/pypa/pipenv/pull/4535) in [pypa/pipenv](https://github.com/pypa/pipenv)
+2. ❗️ Closed issue [#4534](https://github.com/pypa/pipenv/issues/4534) in [pypa/pipenv](https://github.com/pypa/pipenv)
+3. 🗣 Commented on [#4534](https://github.com/pypa/pipenv/issues/4534) in [pypa/pipenv](https://github.com/pypa/pipenv)
+4. 🗣 Commented on [#4534](https://github.com/pypa/pipenv/issues/4534) in [pypa/pipenv](https://github.com/pypa/pipenv)
+5. 🗣 Commented on [#420](https://github.com/willmcgugan/rich/issues/420) in [willmcgugan/rich](https://github.com/willmcgugan/rich)
 <!--END_SECTION:activity-->
