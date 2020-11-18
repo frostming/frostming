@@ -4,11 +4,17 @@
     31
   ],
   "whites": [
+    32,
     40
   ],
-  "turn": 3,
-  "role": 0,
+  "turn": 4,
+  "role": 1,
   "last_steps": [
+    {
+      "user": "frostming",
+      "color": "white",
+      "pos": "F4"
+    },
     {
       "user": "frostming",
       "color": "black",
