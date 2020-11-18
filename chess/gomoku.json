@@ -6,11 +6,17 @@
   ],
   "whites": [
     32,
-    40
+    40,
+    42
   ],
-  "turn": 5,
-  "role": 0,
+  "turn": 6,
+  "role": 1,
   "last_steps": [
+    {
+      "user": "Eliot00",
+      "color": "white",
+      "pos": "G5"
+    },
     {
       "user": "hjlarry",
       "color": "black",
@@ -30,11 +36,6 @@
       "user": "frostming",
       "color": "white",
       "pos": "E5"
-    },
-    {
-      "user": "frostming",
-      "color": "black",
-      "pos": "E4"
     }
   ],
   "winner": null
