@@ -118,7 +118,7 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # os.environ["REPO"] = "https://github.com/frostming/frostming"
+    # os.environ["REPO"] = "frostming/frostming"
     # runner = Runner()
     # runner.update_readme()
     # runner.dump()

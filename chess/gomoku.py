@@ -57,7 +57,7 @@ class Game:
             row = int(row) - 1
         except ValueError:
             raise GameError(f"Invalid pos: {pos}")
-        col = ord(col) - ord("a")
+        col = ord(col) - ord("A")
         if row >= self.DIMENSION or col >= self.DIMENSION:
             raise GameError(f"Invalid pos: {pos}")
         res = row * self.DIMENSION + col
