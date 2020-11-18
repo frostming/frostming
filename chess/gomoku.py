@@ -2,7 +2,7 @@
 Gomoku game
 https://en.wikipedia.org/wiki/Gomoku
 """
-
+from __future__ import annotations
 import string
 from typing import Literal, Union
 

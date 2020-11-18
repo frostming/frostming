@@ -2,6 +2,7 @@
 Reversi game
 https://en.wikipedia.org/wiki/Reversi
 """
+from __future__ import annotations
 import string
 from typing import Literal, Union
 
