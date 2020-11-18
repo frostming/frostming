@@ -1,8 +1,16 @@
 {
-  "blacks": [],
+  "blacks": [
+    80
+  ],
   "whites": [],
-  "turn": 0,
-  "role": 1,
-  "last_steps": [],
+  "turn": 1,
+  "role": 0,
+  "last_steps": [
+    {
+      "user": "frostming",
+      "color": "black",
+      "pos": "E4"
+    }
+  ],
   "winner": null
 }

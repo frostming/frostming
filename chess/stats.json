@@ -1,5 +1,7 @@
 {
-  "all_players": {},
+  "all_players": {
+    "frostming": 1
+  },
   "winning_players": {},
   "completed_games": 0
 }
