@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from subprocess import check_call
 from typing import Literal, Union
 
 from jinja2 import Template
@@ -91,25 +92,33 @@ class Runner:
             flags=re.DOTALL,
         )
 
+    def commit_files(self, message: str):
+        check_call(["git", "add", "-A", "."])
+        check_call(["git", "commit", "-m", message])
+
 
 def main():
     issue_title = os.getenv("ISSUE_TITLE")
     parts = issue_title.split("|")
     runner = Runner()
+    user = os.getenv("PLAYER")
     if len(parts) < 4 and "new" in parts:
         runner.new_game()
+        message = f"@{user} starts a new game"
     else:
-        user = os.getenv("USER")
         *_, color, pos = parts
         input_role = 1 if color == "black" else 0
         runner.play_game(input_role, pos, user)
+        message = f"@{user} drops a {color} piece at {pos.upper()}"
+    message += f"\nClose #{os.getenv('ISSUE_NUMBER')}"
     runner.update_readme()
     runner.dump()
+    runner.commit_files(message)
 
 
 if __name__ == "__main__":
-    # main()
-    os.environ["repo"] = "https://github.com/frostming/frostming"
-    runner = Runner()
-    runner.update_readme()
-    runner.dump()
+    main()
+    # os.environ["REPO"] = "https://github.com/frostming/frostming"
+    # runner = Runner()
+    # runner.update_readme()
+    # runner.dump()
