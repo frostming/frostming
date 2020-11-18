@@ -1,15 +1,21 @@
 {
   "blacks": [
     30,
-    31
+    31,
+    48
   ],
   "whites": [
     32,
     40
   ],
-  "turn": 4,
-  "role": 1,
+  "turn": 5,
+  "role": 0,
   "last_steps": [
+    {
+      "user": "hjlarry",
+      "color": "black",
+      "pos": "D6"
+    },
     {
       "user": "frostming",
       "color": "white",
