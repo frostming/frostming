@@ -52,7 +52,7 @@ class Runner:
                     self.stats["winning_players"].get(user, 0) + 1
                 )
         else:
-            self.meta["role"] ^= self.meta["role"]
+            self.meta["role"] ^= 1
 
     def dump(self):
         with open(self.GAME_META, "w", encoding="utf-8") as f:
@@ -117,8 +117,8 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
-    # os.environ["REPO"] = "frostming/frostming"
-    # runner = Runner()
-    # runner.update_readme()
-    # runner.dump()
+    # main()
+    os.environ["REPO"] = "frostming/frostming"
+    runner = Runner()
+    runner.update_readme()
+    runner.dump()
