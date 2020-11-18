@@ -117,8 +117,8 @@ def main():
 
 
 if __name__ == "__main__":
-    # main()
-    os.environ["REPO"] = "frostming/frostming"
-    runner = Runner()
-    runner.update_readme()
-    runner.dump()
+    main()
+    # os.environ["REPO"] = "frostming/frostming"
+    # runner = Runner()
+    # runner.update_readme()
+    # runner.dump()
