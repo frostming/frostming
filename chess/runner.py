@@ -35,6 +35,8 @@ class Runner:
             role == self.meta["role"]
         ), f"Current player role doesn't match, should be {self.ROLES[self.meta['role']]}"
         game.load(self.meta["blacks"], self.meta["whites"])
+        if game.is_draw() or self.meta["winner"] is not None:
+            raise ValueError("The game is already over, please start a new game.")
         idx = game._pos_to_idx(pos)
         game.drop(idx, role)
         self.stats["all_players"][user] = self.stats["all_players"].get(user, 0) + 1
@@ -79,6 +81,7 @@ class Runner:
             "total_moves": sum(self.stats["all_players"].values()),
             "completed_games": self.stats["completed_games"],
             "winner": self.ROLES.get(self.meta["winner"]),
+            "draw": game.is_draw(),
             "dimension": game.DIMENSION,
             "field": game.field(),
             "color": self.ROLES.get(self.meta["role"]),

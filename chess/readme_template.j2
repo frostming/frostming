@@ -9,6 +9,10 @@ Everyone is welcome to participate! To make a move, click on the blank cell you 
 Winner: {{ winner|capitalize }}! ![](/assets/{{winner}}.png) ([@{{winner_user}}](https://github.com/{{winner_user}}))
 
 [![Restart](https://img.shields.io/badge/New%20Game%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)](https://github.com/{{repo}}/issues/new?title=gomoku%7Cnew&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+{% elif draw %}
+The game has lead to a tie, please start a new game.
+
+[![Restart](https://img.shields.io/badge/New%20Game%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)](https://github.com/{{repo}}/issues/new?title=gomoku%7Cnew&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
 {% else %}
 It's the **{{color}}** team's turn to play. ![](/assets/{{color}}.png)
 {% endif %}

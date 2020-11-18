@@ -34,6 +34,9 @@ class Game:
             for row in range(self.DIMENSION)
         ]
 
+    def is_draw(self):
+        return None not in self.state
+
     def dump(self) -> str:
         blacks = []
         whites = []
