@@ -4,6 +4,7 @@
     30,
     31,
     38,
+    46,
     48
   ],
   "whites": [
@@ -13,9 +14,14 @@
     40,
     42
   ],
-  "turn": 10,
-  "role": 1,
+  "turn": 11,
+  "role": 0,
   "last_steps": [
+    {
+      "user": "Eliot00",
+      "color": "black",
+      "pos": "B6"
+    },
     {
       "user": "egolearner",
       "color": "white",
@@ -35,11 +41,6 @@
       "user": "hjlarry",
       "color": "black",
       "pos": "E3"
-    },
-    {
-      "user": "Eliot00",
-      "color": "white",
-      "pos": "G5"
     }
   ],
   "winner": null
