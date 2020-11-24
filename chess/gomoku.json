@@ -4,6 +4,7 @@
     30,
     31,
     38,
+    41,
     46,
     48
   ],
@@ -15,9 +16,14 @@
     42,
     54
   ],
-  "turn": 12,
-  "role": 1,
+  "turn": 13,
+  "role": 0,
   "last_steps": [
+    {
+      "user": "frostming",
+      "color": "black",
+      "pos": "F5"
+    },
     {
       "user": "hjlarry",
       "color": "white",
@@ -37,11 +43,6 @@
       "user": "hjlarry",
       "color": "black",
       "pos": "C5"
-    },
-    {
-      "user": "GoooIce",
-      "color": "white",
-      "pos": "D5"
     }
   ],
   "winner": null
