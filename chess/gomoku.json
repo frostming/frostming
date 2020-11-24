@@ -12,11 +12,17 @@
     32,
     39,
     40,
-    42
+    42,
+    54
   ],
-  "turn": 11,
-  "role": 0,
+  "turn": 12,
+  "role": 1,
   "last_steps": [
+    {
+      "user": "hjlarry",
+      "color": "white",
+      "pos": "A7"
+    },
     {
       "user": "Eliot00",
       "color": "black",
@@ -36,11 +42,6 @@
       "user": "GoooIce",
       "color": "white",
       "pos": "D5"
-    },
-    {
-      "user": "hjlarry",
-      "color": "black",
-      "pos": "E3"
     }
   ],
   "winner": null
