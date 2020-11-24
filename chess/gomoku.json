@@ -14,11 +14,17 @@
     39,
     40,
     42,
+    51,
     54
   ],
-  "turn": 13,
-  "role": 0,
+  "turn": 14,
+  "role": 1,
   "last_steps": [
+    {
+      "user": "yihong0618",
+      "color": "white",
+      "pos": "G6"
+    },
     {
       "user": "frostming",
       "color": "black",
@@ -38,11 +44,6 @@
       "user": "egolearner",
       "color": "white",
       "pos": "F2"
-    },
-    {
-      "user": "hjlarry",
-      "color": "black",
-      "pos": "C5"
     }
   ],
   "winner": null
