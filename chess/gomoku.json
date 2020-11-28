@@ -1,6 +1,7 @@
 {
   "blacks": [
     22,
+    29,
     30,
     31,
     38,
@@ -17,9 +18,14 @@
     51,
     54
   ],
-  "turn": 14,
-  "role": 1,
+  "turn": 15,
+  "role": 0,
   "last_steps": [
+    {
+      "user": "Eliot00",
+      "color": "black",
+      "pos": "C4"
+    },
     {
       "user": "yihong0618",
       "color": "white",
@@ -39,11 +45,6 @@
       "user": "Eliot00",
       "color": "black",
       "pos": "B6"
-    },
-    {
-      "user": "egolearner",
-      "color": "white",
-      "pos": "F2"
     }
   ],
   "winner": null
