@@ -7,6 +7,7 @@
     38,
     41,
     46,
+    47,
     48
   ],
   "whites": [
@@ -19,9 +20,14 @@
     51,
     54
   ],
-  "turn": 16,
-  "role": 1,
+  "turn": 17,
+  "role": 0,
   "last_steps": [
+    {
+      "user": "lengthmin",
+      "color": "black",
+      "pos": "C6"
+    },
     {
       "user": "lengthmin",
       "color": "white",
@@ -41,11 +47,6 @@
       "user": "frostming",
       "color": "black",
       "pos": "F5"
-    },
-    {
-      "user": "hjlarry",
-      "color": "white",
-      "pos": "A7"
     }
   ],
   "winner": null
