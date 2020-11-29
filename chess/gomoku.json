@@ -11,6 +11,7 @@
   ],
   "whites": [
     14,
+    28,
     32,
     39,
     40,
@@ -18,9 +19,14 @@
     51,
     54
   ],
-  "turn": 15,
-  "role": 0,
+  "turn": 16,
+  "role": 1,
   "last_steps": [
+    {
+      "user": "lengthmin",
+      "color": "white",
+      "pos": "B4"
+    },
     {
       "user": "Eliot00",
       "color": "black",
@@ -40,11 +46,6 @@
       "user": "hjlarry",
       "color": "white",
       "pos": "A7"
-    },
-    {
-      "user": "Eliot00",
-      "color": "black",
-      "pos": "B6"
     }
   ],
   "winner": null
