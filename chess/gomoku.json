@@ -12,6 +12,7 @@
   ],
   "whites": [
     14,
+    24,
     28,
     32,
     39,
@@ -20,9 +21,14 @@
     51,
     54
   ],
-  "turn": 17,
-  "role": 0,
+  "turn": 18,
+  "role": 1,
   "last_steps": [
+    {
+      "user": "yihong0618",
+      "color": "white",
+      "pos": "G3"
+    },
     {
       "user": "lengthmin",
       "color": "black",
@@ -42,11 +48,6 @@
       "user": "yihong0618",
       "color": "white",
       "pos": "G6"
-    },
-    {
-      "user": "frostming",
-      "color": "black",
-      "pos": "F5"
     }
   ],
   "winner": null
