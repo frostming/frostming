@@ -1,8 +1,16 @@
 {
-  "turn": 0,
-  "last_steps": [],
-  "blacks": [],
+  "turn": 1,
+  "last_steps": [
+    {
+      "user": "forrestchang",
+      "color": "black",
+      "pos": "E5"
+    }
+  ],
+  "blacks": [
+    40
+  ],
   "whites": [],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
