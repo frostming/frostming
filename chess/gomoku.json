@@ -16,15 +16,21 @@
     24,
     28,
     32,
+    33,
     39,
     40,
     42,
     51,
     54
   ],
-  "turn": 19,
-  "role": 0,
+  "turn": 20,
+  "role": 1,
   "last_steps": [
+    {
+      "user": "frostming",
+      "color": "white",
+      "pos": "G4"
+    },
     {
       "user": "Insutanto",
       "color": "black",
@@ -44,11 +50,6 @@
       "user": "lengthmin",
       "color": "white",
       "pos": "B4"
-    },
-    {
-      "user": "Eliot00",
-      "color": "black",
-      "pos": "C4"
     }
   ],
   "winner": null
