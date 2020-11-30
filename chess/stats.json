@@ -12,5 +12,11 @@
   "winning_players": {
     "Insutanto": 1
   },
-  "completed_games": 1
+  "completed_games": 1,
+  "turn": 0,
+  "last_steps": [],
+  "blacks": [],
+  "whites": [],
+  "role": 1,
+  "winner": null
 }
