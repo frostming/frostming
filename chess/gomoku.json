@@ -1,57 +1,8 @@
 {
-  "blacks": [
-    20,
-    22,
-    29,
-    30,
-    31,
-    38,
-    41,
-    46,
-    47,
-    48,
-    56
-  ],
-  "whites": [
-    14,
-    24,
-    28,
-    32,
-    33,
-    39,
-    40,
-    42,
-    51,
-    54
-  ],
-  "turn": 21,
+  "turn": 0,
+  "last_steps": [],
+  "blacks": [],
+  "whites": [],
   "role": 1,
-  "last_steps": [
-    {
-      "user": "Insutanto",
-      "color": "black",
-      "pos": "C3"
-    },
-    {
-      "user": "frostming",
-      "color": "white",
-      "pos": "G4"
-    },
-    {
-      "user": "Insutanto",
-      "color": "black",
-      "pos": "C7"
-    },
-    {
-      "user": "yihong0618",
-      "color": "white",
-      "pos": "G3"
-    },
-    {
-      "user": "lengthmin",
-      "color": "black",
-      "pos": "C6"
-    }
-  ],
-  "winner": 1
+  "winner": null
 }

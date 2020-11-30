@@ -38,7 +38,7 @@ It's the **{{color}}** team's turn to play. ![](/assets/{{color}}.png)
 **:alarm_clock: Most recent moves**
 | Team | Move | Made by |
 | ---- | ---- | ------- |
-{% for step in last_steps-%}
+{% for step in last_steps[:5]-%}
 | {{step.color}} | {{step.pos}} | [@{{step.user}}](https://github.com/{{step.user}}) |
 {% endfor %}
 

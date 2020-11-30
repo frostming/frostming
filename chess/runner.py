@@ -44,7 +44,6 @@ class Runner:
         self.meta["last_steps"].insert(
             0, {"user": user, "color": self.ROLES[role], "pos": pos}
         )
-        self.meta["last_steps"][5:] = []
         self.meta["blacks"], self.meta["whites"] = game.dump()
         winner = game.check_field(idx)
         if winner is not None:
@@ -66,7 +65,7 @@ class Runner:
             f.write(self.readme)
 
     def new_game(self):
-        self.stats.update(
+        self.meta.update(
             turn=0, last_steps=[], blacks=[], whites=[], role=1, winner=None
         )
 
