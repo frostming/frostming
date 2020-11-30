@@ -8,7 +8,8 @@
     41,
     46,
     47,
-    48
+    48,
+    56
   ],
   "whites": [
     14,
@@ -21,9 +22,14 @@
     51,
     54
   ],
-  "turn": 18,
-  "role": 1,
+  "turn": 19,
+  "role": 0,
   "last_steps": [
+    {
+      "user": "Insutanto",
+      "color": "black",
+      "pos": "C7"
+    },
     {
       "user": "yihong0618",
       "color": "white",
@@ -43,11 +49,6 @@
       "user": "Eliot00",
       "color": "black",
       "pos": "C4"
-    },
-    {
-      "user": "yihong0618",
-      "color": "white",
-      "pos": "G6"
     }
   ],
   "winner": null
