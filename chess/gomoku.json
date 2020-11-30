@@ -1,6 +1,11 @@
 {
-  "turn": 1,
+  "turn": 2,
   "last_steps": [
+    {
+      "user": "acraftydev",
+      "color": "white",
+      "pos": "F5"
+    },
     {
       "user": "forrestchang",
       "color": "black",
@@ -10,7 +15,9 @@
   "blacks": [
     40
   ],
-  "whites": [],
-  "role": 0,
+  "whites": [
+    41
+  ],
+  "role": 1,
   "winner": null
 }
