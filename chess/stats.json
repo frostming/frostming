@@ -7,8 +7,10 @@
     "egolearner": 1,
     "yihong0618": 2,
     "lengthmin": 2,
+    "Insutanto": 2
+  },
+  "winning_players": {
     "Insutanto": 1
   },
-  "winning_players": {},
-  "completed_games": 0
+  "completed_games": 1
 }

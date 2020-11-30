@@ -1,5 +1,6 @@
 {
   "blacks": [
+    20,
     22,
     29,
     30,
@@ -23,9 +24,14 @@
     51,
     54
   ],
-  "turn": 20,
+  "turn": 21,
   "role": 1,
   "last_steps": [
+    {
+      "user": "Insutanto",
+      "color": "black",
+      "pos": "C3"
+    },
     {
       "user": "frostming",
       "color": "white",
@@ -45,12 +51,7 @@
       "user": "lengthmin",
       "color": "black",
       "pos": "C6"
-    },
-    {
-      "user": "lengthmin",
-      "color": "white",
-      "pos": "B4"
     }
   ],
-  "winner": null
+  "winner": 1
 }
