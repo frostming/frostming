@@ -1,6 +1,11 @@
 {
-  "turn": 3,
+  "turn": 4,
   "last_steps": [
+    {
+      "user": "LeiShi1313",
+      "color": "white",
+      "pos": "E4"
+    },
     {
       "user": "zhongkangjk",
       "color": "black",
@@ -22,8 +27,9 @@
     40
   ],
   "whites": [
+    31,
     41
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
