@@ -1,6 +1,11 @@
 {
-  "turn": 2,
+  "turn": 3,
   "last_steps": [
+    {
+      "user": "zhongkangjk",
+      "color": "black",
+      "pos": "F4"
+    },
     {
       "user": "acraftydev",
       "color": "white",
@@ -13,11 +18,12 @@
     }
   ],
   "blacks": [
+    32,
     40
   ],
   "whites": [
     41
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
