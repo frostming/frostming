@@ -1,6 +1,11 @@
 {
-  "turn": 6,
+  "turn": 7,
   "last_steps": [
+    {
+      "user": "EscapeLife",
+      "color": "black",
+      "pos": "D6"
+    },
     {
       "user": "zhongkangjk",
       "color": "white",
@@ -35,6 +40,7 @@
   "blacks": [
     32,
     40,
+    48,
     49
   ],
   "whites": [
@@ -42,6 +48,6 @@
     41,
     50
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
