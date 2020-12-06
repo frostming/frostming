@@ -1,6 +1,11 @@
 {
-  "turn": 7,
+  "turn": 8,
   "last_steps": [
+    {
+      "user": "baby5",
+      "color": "white",
+      "pos": "G3"
+    },
     {
       "user": "EscapeLife",
       "color": "black",
@@ -44,10 +49,11 @@
     49
   ],
   "whites": [
+    24,
     31,
     41,
     50
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
