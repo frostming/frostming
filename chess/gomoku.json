@@ -1,6 +1,11 @@
 {
-  "turn": 8,
+  "turn": 9,
   "last_steps": [
+    {
+      "user": "forrestchang",
+      "color": "black",
+      "pos": "C7"
+    },
     {
       "user": "baby5",
       "color": "white",
@@ -46,7 +51,8 @@
     32,
     40,
     48,
-    49
+    49,
+    56
   ],
   "whites": [
     24,
@@ -54,6 +60,6 @@
     41,
     50
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
