@@ -1,6 +1,11 @@
 {
-  "turn": 16,
+  "turn": 17,
   "last_steps": [
+    {
+      "user": "pi-dal",
+      "color": "black",
+      "pos": "F7"
+    },
     {
       "user": "pi-dal",
       "color": "white",
@@ -90,7 +95,8 @@
     49,
     56,
     57,
-    58
+    58,
+    59
   ],
   "whites": [
     21,
@@ -102,6 +108,6 @@
     50,
     64
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
