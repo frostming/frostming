@@ -1,6 +1,11 @@
 {
-  "turn": 2,
+  "turn": 3,
   "last_steps": [
+    {
+      "user": "Insutanto",
+      "color": "black",
+      "pos": "D4"
+    },
     {
       "user": "laiyonghao",
       "color": "white",
@@ -13,11 +18,12 @@
     }
   ],
   "blacks": [
+    30,
     40
   ],
   "whites": [
     31
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
