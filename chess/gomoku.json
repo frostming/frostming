@@ -1,6 +1,11 @@
 {
-  "turn": 3,
+  "turn": 4,
   "last_steps": [
+    {
+      "user": "Allianzcortex",
+      "color": "white",
+      "pos": "F5"
+    },
     {
       "user": "Insutanto",
       "color": "black",
@@ -22,8 +27,9 @@
     40
   ],
   "whites": [
-    31
+    31,
+    41
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
