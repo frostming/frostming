@@ -1,6 +1,11 @@
 {
-  "turn": 4,
+  "turn": 5,
   "last_steps": [
+    {
+      "user": "ilumer",
+      "color": "black",
+      "pos": "F4"
+    },
     {
       "user": "Allianzcortex",
       "color": "white",
@@ -24,12 +29,13 @@
   ],
   "blacks": [
     30,
+    32,
     40
   ],
   "whites": [
     31,
     41
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
