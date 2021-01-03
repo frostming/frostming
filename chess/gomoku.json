@@ -1,6 +1,11 @@
 {
-  "turn": 5,
+  "turn": 6,
   "last_steps": [
+    {
+      "user": "Pandaaaa906",
+      "color": "white",
+      "pos": "G6"
+    },
     {
       "user": "ilumer",
       "color": "black",
@@ -34,8 +39,9 @@
   ],
   "whites": [
     31,
-    41
+    41,
+    51
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
