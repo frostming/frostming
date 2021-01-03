@@ -1,6 +1,11 @@
 {
-  "turn": 7,
+  "turn": 8,
   "last_steps": [
+    {
+      "user": "Pandaaaa906",
+      "color": "white",
+      "pos": "H7"
+    },
     {
       "user": "oscarada87",
       "color": "black",
@@ -46,8 +51,9 @@
   "whites": [
     31,
     41,
-    51
+    51,
+    61
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
