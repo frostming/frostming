@@ -1,6 +1,11 @@
 {
-  "turn": 6,
+  "turn": 7,
   "last_steps": [
+    {
+      "user": "oscarada87",
+      "color": "black",
+      "pos": "D3"
+    },
     {
       "user": "Pandaaaa906",
       "color": "white",
@@ -33,6 +38,7 @@
     }
   ],
   "blacks": [
+    21,
     30,
     32,
     40
@@ -42,6 +48,6 @@
     41,
     51
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
