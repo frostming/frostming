@@ -1,6 +1,11 @@
 {
-  "turn": 8,
+  "turn": 9,
   "last_steps": [
+    {
+      "user": "frostming",
+      "color": "black",
+      "pos": "I8"
+    },
     {
       "user": "Pandaaaa906",
       "color": "white",
@@ -46,7 +51,8 @@
     21,
     30,
     32,
-    40
+    40,
+    71
   ],
   "whites": [
     31,
@@ -54,6 +60,6 @@
     51,
     61
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
