@@ -1,6 +1,11 @@
 {
-  "turn": 10,
+  "turn": 11,
   "last_steps": [
+    {
+      "user": "Rory-luo",
+      "color": "black",
+      "pos": "F6"
+    },
     {
       "user": "weijiang1994",
       "color": "white",
@@ -57,6 +62,7 @@
     30,
     32,
     40,
+    50,
     71
   ],
   "whites": [
@@ -66,6 +72,6 @@
     51,
     61
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
