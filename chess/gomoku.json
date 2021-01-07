@@ -1,6 +1,11 @@
 {
-  "turn": 11,
+  "turn": 12,
   "last_steps": [
+    {
+      "user": "elonzh",
+      "color": "white",
+      "pos": "G7"
+    },
     {
       "user": "Rory-luo",
       "color": "black",
@@ -70,8 +75,9 @@
     41,
     48,
     51,
+    60,
     61
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
