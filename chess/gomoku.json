@@ -1,6 +1,11 @@
 {
-  "turn": 13,
+  "turn": 14,
   "last_steps": [
+    {
+      "user": "frostming",
+      "color": "white",
+      "pos": "B2"
+    },
     {
       "user": "yihong0618",
       "color": "black",
@@ -77,6 +82,7 @@
     71
   ],
   "whites": [
+    10,
     31,
     41,
     48,
@@ -84,6 +90,6 @@
     60,
     61
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
