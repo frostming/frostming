@@ -1,6 +1,11 @@
 {
-  "turn": 15,
+  "turn": 16,
   "last_steps": [
+    {
+      "user": "bonfy",
+      "color": "white",
+      "pos": "D5"
+    },
     {
       "user": "yihong0618",
       "color": "black",
@@ -90,12 +95,13 @@
   "whites": [
     10,
     31,
+    39,
     41,
     48,
     51,
     60,
     61
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
