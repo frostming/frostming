@@ -1,6 +1,11 @@
 {
-  "turn": 18,
+  "turn": 19,
   "last_steps": [
+    {
+      "user": "yihong0618",
+      "color": "black",
+      "pos": "G5"
+    },
     {
       "user": "king-libingke",
       "color": "white",
@@ -100,6 +105,7 @@
     30,
     32,
     40,
+    42,
     50,
     71
   ],
@@ -114,6 +120,6 @@
     60,
     61
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
