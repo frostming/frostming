@@ -1,8 +1,16 @@
 {
-  "turn": 0,
-  "last_steps": [],
-  "blacks": [],
+  "turn": 1,
+  "last_steps": [
+    {
+      "user": "IreTheKID",
+      "color": "black",
+      "pos": "H8"
+    }
+  ],
+  "blacks": [
+    70
+  ],
   "whites": [],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
