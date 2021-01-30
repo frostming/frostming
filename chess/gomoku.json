@@ -1,6 +1,11 @@
 {
-  "turn": 1,
+  "turn": 2,
   "last_steps": [
+    {
+      "user": "KnowsCount",
+      "color": "white",
+      "pos": "D6"
+    },
     {
       "user": "IreTheKID",
       "color": "black",
@@ -10,7 +15,9 @@
   "blacks": [
     70
   ],
-  "whites": [],
-  "role": 0,
+  "whites": [
+    48
+  ],
+  "role": 1,
   "winner": null
 }
