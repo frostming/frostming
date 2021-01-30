@@ -1,6 +1,11 @@
 {
-  "turn": 2,
+  "turn": 3,
   "last_steps": [
+    {
+      "user": "RenGeng",
+      "color": "black",
+      "pos": "H6"
+    },
     {
       "user": "KnowsCount",
       "color": "white",
@@ -13,11 +18,12 @@
     }
   ],
   "blacks": [
+    52,
     70
   ],
   "whites": [
     48
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
