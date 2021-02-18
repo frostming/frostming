@@ -1,6 +1,11 @@
 {
-  "turn": 6,
+  "turn": 7,
   "last_steps": [
+    {
+      "user": "DeepDarkStar",
+      "color": "black",
+      "pos": "G5"
+    },
     {
       "user": "stacklens",
       "color": "white",
@@ -33,6 +38,7 @@
     }
   ],
   "blacks": [
+    42,
     52,
     61,
     70
@@ -42,6 +48,6 @@
     48,
     53
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
