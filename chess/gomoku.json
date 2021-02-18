@@ -1,6 +1,11 @@
 {
-  "turn": 5,
+  "turn": 6,
   "last_steps": [
+    {
+      "user": "stacklens",
+      "color": "white",
+      "pos": "H5"
+    },
     {
       "user": "MerleLiuKun",
       "color": "black",
@@ -33,9 +38,10 @@
     70
   ],
   "whites": [
+    43,
     48,
     53
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
