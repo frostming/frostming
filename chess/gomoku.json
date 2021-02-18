@@ -1,6 +1,11 @@
 {
-  "turn": 4,
+  "turn": 5,
   "last_steps": [
+    {
+      "user": "MerleLiuKun",
+      "color": "black",
+      "pos": "H7"
+    },
     {
       "user": "hueyyeng",
       "color": "white",
@@ -24,12 +29,13 @@
   ],
   "blacks": [
     52,
+    61,
     70
   ],
   "whites": [
     48,
     53
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
