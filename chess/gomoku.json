@@ -1,6 +1,11 @@
 {
-  "turn": 7,
+  "turn": 8,
   "last_steps": [
+    {
+      "user": "GoooIce",
+      "color": "white",
+      "pos": "F4"
+    },
     {
       "user": "DeepDarkStar",
       "color": "black",
@@ -44,10 +49,11 @@
     70
   ],
   "whites": [
+    32,
     43,
     48,
     53
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
