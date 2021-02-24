@@ -1,6 +1,11 @@
 {
-  "turn": 8,
+  "turn": 9,
   "last_steps": [
+    {
+      "user": "ogonbat",
+      "color": "black",
+      "pos": "I7"
+    },
     {
       "user": "GoooIce",
       "color": "white",
@@ -46,6 +51,7 @@
     42,
     52,
     61,
+    62,
     70
   ],
   "whites": [
@@ -54,6 +60,6 @@
     48,
     53
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
