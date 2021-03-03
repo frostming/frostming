@@ -1,6 +1,11 @@
 {
-  "turn": 9,
+  "turn": 10,
   "last_steps": [
+    {
+      "user": "yihong0618",
+      "color": "white",
+      "pos": "E5"
+    },
     {
       "user": "ogonbat",
       "color": "black",
@@ -56,10 +61,11 @@
   ],
   "whites": [
     32,
+    40,
     43,
     48,
     53
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
