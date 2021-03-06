@@ -1,6 +1,11 @@
 {
-  "turn": 11,
+  "turn": 12,
   "last_steps": [
+    {
+      "user": "GoooIce",
+      "color": "white",
+      "pos": "D5"
+    },
     {
       "user": "frostming",
       "color": "black",
@@ -67,11 +72,12 @@
   ],
   "whites": [
     32,
+    39,
     40,
     43,
     48,
     53
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
