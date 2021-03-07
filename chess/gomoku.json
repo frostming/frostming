@@ -1,6 +1,11 @@
 {
-  "turn": 12,
+  "turn": 13,
   "last_steps": [
+    {
+      "user": "cjolowicz",
+      "color": "black",
+      "pos": "G7"
+    },
     {
       "user": "GoooIce",
       "color": "white",
@@ -66,6 +71,7 @@
     24,
     42,
     52,
+    60,
     61,
     62,
     70
@@ -78,6 +84,6 @@
     48,
     53
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
