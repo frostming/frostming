@@ -1,6 +1,11 @@
 {
-  "turn": 13,
+  "turn": 14,
   "last_steps": [
+    {
+      "user": "yihong0618",
+      "color": "white",
+      "pos": "D4"
+    },
     {
       "user": "cjolowicz",
       "color": "black",
@@ -77,6 +82,7 @@
     70
   ],
   "whites": [
+    30,
     32,
     39,
     40,
@@ -84,6 +90,6 @@
     48,
     53
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
