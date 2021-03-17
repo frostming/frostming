@@ -1,6 +1,11 @@
 {
-  "turn": 15,
+  "turn": 16,
   "last_steps": [
+    {
+      "user": "king-libingke",
+      "color": "white",
+      "pos": "G4"
+    },
     {
       "user": "frostming",
       "color": "black",
@@ -90,12 +95,13 @@
   "whites": [
     30,
     32,
+    33,
     39,
     40,
     43,
     48,
     53
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
