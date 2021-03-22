@@ -1,6 +1,11 @@
 {
-  "turn": 16,
+  "turn": 17,
   "last_steps": [
+    {
+      "user": "GoooIce",
+      "color": "black",
+      "pos": "G8"
+    },
     {
       "user": "king-libingke",
       "color": "white",
@@ -90,6 +95,7 @@
     60,
     61,
     62,
+    69,
     70
   ],
   "whites": [
@@ -102,6 +108,6 @@
     48,
     53
   ],
-  "role": 1,
+  "role": 0,
   "winner": null
 }
