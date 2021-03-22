@@ -1,6 +1,11 @@
 {
-  "turn": 17,
+  "turn": 18,
   "last_steps": [
+    {
+      "user": "yihong0618",
+      "color": "white",
+      "pos": "G9"
+    },
     {
       "user": "GoooIce",
       "color": "black",
@@ -106,8 +111,9 @@
     40,
     43,
     48,
-    53
+    53,
+    78
   ],
-  "role": 0,
+  "role": 1,
   "winner": null
 }
