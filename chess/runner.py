@@ -142,7 +142,7 @@ class Runner:
             if last_step is not None:
                 winner = last_step["user"]
                 color = last_step["color"]
-                role = 1 if color == "black" else "white"
+                role = 1 if color == "black" else 0
                 self.end_game(role, winner)
             self.new_game()
             message = (
