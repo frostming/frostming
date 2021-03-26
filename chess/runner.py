@@ -115,13 +115,15 @@ class Runner:
             "color": self.ROLES.get(win_role),
             "winner": winner,
             "last_steps": self.meta["last_steps"],
+            "asset_root": f"https://github.com/{os.getenv('REPO')}/raw/master",
         }
         summary_text = template.render(**context)
+        # print(summary_text)
         gh = login(token=os.getenv("GITHUB_TOKEN"))
         namespace, repo = os.getenv("REPO").split("/")
         issue_num = int(os.getenv("ISSUE_NUMBER"))
         issue = gh.issue(namespace, repo, issue_num)
-        issue.create_comment(summary_text)
+        print(issue.create_comment(summary_text))
 
     def main(self):
         issue_title = os.getenv("ISSUE_TITLE")
@@ -157,7 +159,7 @@ class Runner:
         message += f"\nClose #{os.getenv('ISSUE_NUMBER')}"
         self.update_readme()
         self.dump()
-        self.commit_files(message)
+        # self.commit_files(message)
 
 
 if __name__ == "__main__":

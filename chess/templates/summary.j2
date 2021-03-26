@@ -1,6 +1,6 @@
 ## 🎉 End of Game 🎉
 
-Congratulations to the winner: ![](/assets/{{ color }}.png) @{{ winner }}
+Congratulations to the winner: ![]({{asset_root}}/assets/{{ color }}.png) @{{ winner }}
 
 ### The Last Game Field
 
@@ -10,11 +10,11 @@ Congratulations to the winner: ![](/assets/{{ color }}.png) @{{ winner }}
 {% for i in range(dimension)-%}
 | {{i + 1}} | {% for j in range(dimension)-%}
 {%-if field[i][j] == 1-%}
-    ![](/assets/black.png)
+    ![]({{asset_root}}/assets/black.png)
 {%-elif field[i][j] == 0-%}
-    ![](/assets/white.png)
+    ![]({{asset_root}}/assets/white.png)
 {%-else-%}
-    ![](/assets/blank.png)
+    ![]({{asset_root}}/assets/blank.png)
 {%-endif %} |{% endfor %}
 {% endfor %}
 
