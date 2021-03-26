@@ -24,7 +24,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install -r requirements
+          pip install -r requirements.txt
       - name: Play
         env:
           REPO: ${{ github.repository }}
