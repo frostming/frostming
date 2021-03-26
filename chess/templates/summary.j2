@@ -1,0 +1,27 @@
+## 🎉 End of Game 🎉
+
+Congratulations to the winner: ![](/assets/{{ color }}.png) @{{ winner }}
+
+### The Last Game Field
+
+{% set upper_alpha = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' %}
+| |{% for i in range(dimension) %}{{ upper_alpha[i] }}|{% endfor %}
+| - |{% for i in range(dimension) %} - |{% endfor %}
+{% for i in range(dimension)-%}
+| {{i + 1}} | {% for j in range(dimension)-%}
+{%-if field[i][j] == 1-%}
+    ![](/assets/black.png)
+{%-elif field[i][j] == 0-%}
+    ![](/assets/white.png)
+{%-else-%}
+    ![](/assets/blank.png)
+{%-endif %} |{% endfor %}
+{% endfor %}
+
+### Participants(Most recent first)
+
+| Team | Move | Made by |
+| ---- | ---- | ------- |
+{% for step in last_steps-%}
+| {{step.color}} | {{step.pos}} | @{{step.user}} |
+{% endfor %}

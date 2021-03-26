@@ -16,16 +16,22 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
+      - name: Cache PIP
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-py38
 
       - name: Install Dependencies
         run: |
-          pip install -U pip jinja2
+          pip install -r requirements
       - name: Play
         env:
           REPO: ${{ github.repository }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
           PLAYER: ${{ github.event.issue.user.login }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
