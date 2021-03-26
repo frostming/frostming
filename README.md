@@ -34,6 +34,7 @@ Everyone is welcome to participate! To make a move, click on the blank cell you 
 
 It's the **black** team's turn to play. ![](/assets/black.png)
 
+[![Surrender](https://img.shields.io/badge/Surrender%20-%2348e3c9.svg?&style=for-the-badge&logoColor=white)](https://github.com/frostming/frostming/issues/new?title=gomoku%7Csurrender&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
 
 
 | |A|B|C|D|E|F|G|H|I|
