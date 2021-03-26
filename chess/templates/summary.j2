@@ -1,6 +1,9 @@
 ## 🎉 End of Game 🎉
 
-Congratulations to the winner: ![]({{asset_root}}/assets/{{ color }}.png) @{{ winner }}
+Congratulations to the winner: ![]({{root}}/raw/master/assets/{{ color }}.png) @{{ winner }}
+
+Press the button to start a new game: [![Restart](https://img.shields.io/badge/New%20Game%20-%23E34F26.svg?&style=for-the-badge&logoColor=white)]({{root}}/issues/new?title=gomoku%7Cnew&labels=gomoku&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+
 
 ### The Last Game Field
 
@@ -10,11 +13,11 @@ Congratulations to the winner: ![]({{asset_root}}/assets/{{ color }}.png) @{{ wi
 {% for i in range(dimension)-%}
 | {{i + 1}} | {% for j in range(dimension)-%}
 {%-if field[i][j] == 1-%}
-    ![]({{asset_root}}/assets/black.png)
+    ![]({{root}}/raw/master/assets/black.png)
 {%-elif field[i][j] == 0-%}
-    ![]({{asset_root}}/assets/white.png)
+    ![]({{root}}/raw/master/assets/white.png)
 {%-else-%}
-    ![]({{asset_root}}/assets/blank.png)
+    ![]({{root}}/raw/master/assets/blank.png)
 {%-endif %} |{% endfor %}
 {% endfor %}
 

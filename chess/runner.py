@@ -115,7 +115,7 @@ class Runner:
             "color": self.ROLES.get(win_role),
             "winner": winner,
             "last_steps": self.meta["last_steps"],
-            "asset_root": f"https://github.com/{os.getenv('REPO')}/raw/master",
+            "root": f"https://github.com/{os.getenv('REPO')}",
         }
         summary_text = template.render(**context)
         # print(summary_text)
