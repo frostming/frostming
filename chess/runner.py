@@ -159,7 +159,7 @@ class Runner:
         message += f"\nClose #{os.getenv('ISSUE_NUMBER')}"
         self.update_readme()
         self.dump()
-        # self.commit_files(message)
+        self.commit_files(message)
 
 
 if __name__ == "__main__":
