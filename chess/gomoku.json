@@ -1,1 +1,1 @@
-{"turn": 2, "last_steps": [{"user": "xiantang", "color": "white", "pos": "E5"}, {"user": "xiantang", "color": "black", "pos": "E4"}], "blacks": [31], "whites": [40], "role": 1, "winner": null}
+{"turn": 3, "last_steps": [{"user": "frostming", "color": "black", "pos": "F5"}, {"user": "xiantang", "color": "white", "pos": "E5"}, {"user": "xiantang", "color": "black", "pos": "E4"}], "blacks": [31, 41], "whites": [40], "role": 0, "winner": null}
