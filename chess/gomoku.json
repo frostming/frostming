@@ -1,1 +1,1 @@
-{"turn": 3, "last_steps": [{"user": "z-t-y", "color": "black", "pos": "C6"}, {"user": "Patrickctyyx", "color": "white", "pos": "E5"}, {"user": "Farmer-chong", "color": "black", "pos": "D5"}], "blacks": [39, 47], "whites": [40], "role": 0, "winner": null}
+{"turn": 4, "last_steps": [{"user": "frostming", "color": "white", "pos": "E4"}, {"user": "z-t-y", "color": "black", "pos": "C6"}, {"user": "Patrickctyyx", "color": "white", "pos": "E5"}, {"user": "Farmer-chong", "color": "black", "pos": "D5"}], "blacks": [39, 47], "whites": [31, 40], "role": 1, "winner": null}
