@@ -1,1 +1,1 @@
-{"turn": 1, "last_steps": [{"user": "viewsetting", "color": "black", "pos": "E4"}], "blacks": [31], "whites": [], "role": 0, "winner": null}
+{"turn": 2, "last_steps": [{"user": "stumitchell", "color": "white", "pos": "C3"}, {"user": "viewsetting", "color": "black", "pos": "E4"}], "blacks": [31], "whites": [20], "role": 1, "winner": null}
