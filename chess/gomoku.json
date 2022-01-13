@@ -1,1 +1,1 @@
-{"turn": 3, "last_steps": [{"user": "sheldonlll", "color": "black", "pos": "G3"}, {"user": "IluvChezCak", "color": "white", "pos": "D5"}, {"user": "Shikunsh", "color": "black", "pos": "G2"}], "blacks": [15, 24], "whites": [39], "role": 0, "winner": null}
+{"turn": 4, "last_steps": [{"user": "pi-dal", "color": "white", "pos": "G5"}, {"user": "sheldonlll", "color": "black", "pos": "G3"}, {"user": "IluvChezCak", "color": "white", "pos": "D5"}, {"user": "Shikunsh", "color": "black", "pos": "G2"}], "blacks": [15, 24], "whites": [39, 42], "role": 1, "winner": null}
