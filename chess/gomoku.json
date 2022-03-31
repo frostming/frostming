@@ -1,1 +1,1 @@
-{"turn": 2, "last_steps": [{"user": "sheldonlll", "color": "white", "pos": "F4"}, {"user": "zerone0x", "color": "black", "pos": "D3"}], "blacks": [21], "whites": [32], "role": 1, "winner": null}
+{"turn": 3, "last_steps": [{"user": "jackyfzh", "color": "black", "pos": "D4"}, {"user": "sheldonlll", "color": "white", "pos": "F4"}, {"user": "zerone0x", "color": "black", "pos": "D3"}], "blacks": [21, 30], "whites": [32], "role": 0, "winner": null}
