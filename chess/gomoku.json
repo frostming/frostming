@@ -1,1 +1,1 @@
-{"turn": 3, "last_steps": [{"user": "z-t-y", "color": "black", "pos": "D4"}, {"user": "elonzh", "color": "white", "pos": "E5"}, {"user": "Abdur-rahmaanJ", "color": "black", "pos": "A1"}], "blacks": [0, 30], "whites": [40], "role": 0, "winner": null}
+{"turn": 4, "last_steps": [{"user": "Tridagger", "color": "white", "pos": "D6"}, {"user": "z-t-y", "color": "black", "pos": "D4"}, {"user": "elonzh", "color": "white", "pos": "E5"}, {"user": "Abdur-rahmaanJ", "color": "black", "pos": "A1"}], "blacks": [0, 30], "whites": [40, 48], "role": 1, "winner": null}
