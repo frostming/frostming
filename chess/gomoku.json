@@ -1,1 +1,1 @@
-{"turn": 1, "last_steps": [{"user": "SirMartin", "color": "black", "pos": "D4"}], "blacks": [30], "whites": [], "role": 0, "winner": null}
+{"turn": 2, "last_steps": [{"user": "ReneXiong", "color": "white", "pos": "E5"}, {"user": "SirMartin", "color": "black", "pos": "D4"}], "blacks": [30], "whites": [40], "role": 1, "winner": null}
