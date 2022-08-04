@@ -1,1 +1,1 @@
-{"turn": 3, "last_steps": [{"user": "efugier", "color": "black", "pos": "B5"}, {"user": "ReneXiong", "color": "white", "pos": "E5"}, {"user": "SirMartin", "color": "black", "pos": "D4"}], "blacks": [30, 37], "whites": [40], "role": 0, "winner": null}
+{"turn": 4, "last_steps": [{"user": "shiyang07ca", "color": "white", "pos": "D6"}, {"user": "efugier", "color": "black", "pos": "B5"}, {"user": "ReneXiong", "color": "white", "pos": "E5"}, {"user": "SirMartin", "color": "black", "pos": "D4"}], "blacks": [30, 37], "whites": [40, 48], "role": 1, "winner": null}
