@@ -1,1 +1,1 @@
-{"turn": 2, "last_steps": [{"user": "nmreadelf", "color": "white", "pos": "D4"}, {"user": "bageljrkhanofemus", "color": "black", "pos": "E3"}], "blacks": [22], "whites": [30], "role": 1, "winner": null}
+{"turn": 3, "last_steps": [{"user": "vk-kai", "color": "black", "pos": "E4"}, {"user": "nmreadelf", "color": "white", "pos": "D4"}, {"user": "bageljrkhanofemus", "color": "black", "pos": "E3"}], "blacks": [22, 31], "whites": [30], "role": 0, "winner": null}
