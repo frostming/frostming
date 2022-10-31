@@ -1,1 +1,1 @@
-{"turn": 2, "last_steps": [{"user": "xialu4820723", "color": "white", "pos": "E4"}, {"user": "oz123", "color": "black", "pos": "F3"}], "blacks": [23], "whites": [31], "role": 1, "winner": null}
+{"turn": 3, "last_steps": [{"user": "ConradMearns", "color": "black", "pos": "C7"}, {"user": "xialu4820723", "color": "white", "pos": "E4"}, {"user": "oz123", "color": "black", "pos": "F3"}], "blacks": [23, 56], "whites": [31], "role": 0, "winner": null}
