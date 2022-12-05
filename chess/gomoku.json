@@ -1,1 +1,1 @@
-{"turn": 2, "last_steps": [{"user": "bowenfan96", "color": "white", "pos": "F5"}, {"user": "shaonianche", "color": "black", "pos": "E5"}], "blacks": [40], "whites": [41], "role": 1, "winner": null}
+{"turn": 3, "last_steps": [{"user": "shaonianche", "color": "black", "pos": "E4"}, {"user": "bowenfan96", "color": "white", "pos": "F5"}, {"user": "shaonianche", "color": "black", "pos": "E5"}], "blacks": [31, 40], "whites": [41], "role": 0, "winner": null}
