@@ -1,1 +1,1 @@
-{"turn": 3, "last_steps": [{"user": "lxy-l", "color": "black", "pos": "F3"}, {"user": "hallelujahjeff", "color": "white", "pos": "D3"}, {"user": "Xdynix", "color": "black", "pos": "E4"}], "blacks": [23, 31], "whites": [21], "role": 0, "winner": null}
+{"turn": 4, "last_steps": [{"user": "KavinJey", "color": "white", "pos": "F4"}, {"user": "lxy-l", "color": "black", "pos": "F3"}, {"user": "hallelujahjeff", "color": "white", "pos": "D3"}, {"user": "Xdynix", "color": "black", "pos": "E4"}], "blacks": [23, 31], "whites": [21, 32], "role": 1, "winner": null}
