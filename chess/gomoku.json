@@ -1,1 +1,1 @@
-{"turn": 3, "last_steps": [{"user": "Xdynix", "color": "black", "pos": "E4"}, {"user": "RockChinQ", "color": "white", "pos": "D6"}, {"user": "RockChinQ", "color": "black", "pos": "E5"}], "blacks": [31, 40], "whites": [48], "role": 0, "winner": null}
+{"turn": 4, "last_steps": [{"user": "ElijahSink", "color": "white", "pos": "E6"}, {"user": "Xdynix", "color": "black", "pos": "E4"}, {"user": "RockChinQ", "color": "white", "pos": "D6"}, {"user": "RockChinQ", "color": "black", "pos": "E5"}], "blacks": [31, 40], "whites": [48, 49], "role": 1, "winner": null}
