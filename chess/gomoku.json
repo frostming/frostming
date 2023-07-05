@@ -1,1 +1,1 @@
-{"turn": 2, "last_steps": [{"user": "sqd1998", "color": "white", "pos": "E3"}, {"user": "EricSUID", "color": "black", "pos": "D4"}], "blacks": [30], "whites": [22], "role": 1, "winner": null}
+{"turn": 3, "last_steps": [{"user": "vvanglro", "color": "black", "pos": "D5"}, {"user": "sqd1998", "color": "white", "pos": "E3"}, {"user": "EricSUID", "color": "black", "pos": "D4"}], "blacks": [30, 39], "whites": [22], "role": 0, "winner": null}
