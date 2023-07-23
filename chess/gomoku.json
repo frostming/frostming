@@ -1,1 +1,1 @@
-{"turn": 3, "last_steps": [{"user": "winingYang", "color": "black", "pos": "E5"}, {"user": "winingYang", "color": "white", "pos": "E4"}, {"user": "dsdanielpark", "color": "black", "pos": "D5"}], "blacks": [39, 40], "whites": [31], "role": 0, "winner": null}
+{"turn": 4, "last_steps": [{"user": "dsdanielpark", "color": "white", "pos": "F5"}, {"user": "winingYang", "color": "black", "pos": "E5"}, {"user": "winingYang", "color": "white", "pos": "E4"}, {"user": "dsdanielpark", "color": "black", "pos": "D5"}], "blacks": [39, 40], "whites": [31, 41], "role": 1, "winner": null}
