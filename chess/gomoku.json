@@ -1,1 +1,1 @@
-{"turn": 2, "last_steps": [{"user": "flc1125", "color": "white", "pos": "G7"}, {"user": "qixiangyang", "color": "black", "pos": "D2"}], "blacks": [12], "whites": [60], "role": 1, "winner": null}
+{"turn": 3, "last_steps": [{"user": "flc1125", "color": "black", "pos": "F3"}, {"user": "flc1125", "color": "white", "pos": "G7"}, {"user": "qixiangyang", "color": "black", "pos": "D2"}], "blacks": [12, 23], "whites": [60], "role": 0, "winner": null}
