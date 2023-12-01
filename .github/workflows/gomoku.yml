@@ -10,17 +10,13 @@ jobs:
     if: startsWith(github.event.issue.title, 'gomoku|')
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.8
-      - name: Cache PIP
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-py38
+          python-version: 3.10
+          cache: pip
 
       - name: Install Dependencies
         run: |
